@@ -1,2 +1,2 @@
 # Programming-I-Coursework
-:school: University of Southampton - Programming I (COMP1202) - Coursework - 2019/2020
+This repository contains both Specifications and Handins for the **COMP1202-Programming I** coursework
